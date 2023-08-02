@@ -1,0 +1,1 @@
+This is an HTML project from the Odin Project Foundations course. In this project, we are representing Iraqi recipes. 
